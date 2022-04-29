@@ -61,7 +61,7 @@
 					<li><a href="https://github.com/Mario-Chura">Mario Franco Chura Puma</a></li>
 					</ul>
 				</td>
-				<td colspan="2">NOTA:</td>
+				<td colspan="">NOTA:</td>
 				<td></td>
 			</tr>
 			<tr>

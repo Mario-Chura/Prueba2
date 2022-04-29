@@ -25,9 +25,15 @@
 
 
 <table>
-		<theader>
-			<tr><th colspan="1">INFORMACIÓN BÁSICA</th></tr>
-		</theader>
+	<tr>
+            <td><img src="https://github.com/rescobedoq/pw2/blob/main/epis.png?raw=true" alt="EPIS" style="width:50%; height:auto"/></td>
+            <th>
+                <span style="font-weight:bold;">UNIVERSIDAD NACIONAL DE SAN AGUSTIN</span><br />
+                <span style="font-weight:bold;">FACULTAD DE INGENIERÍA DE PRODUCCIÓN Y SERVICIOS</span><br />
+                <span style="font-weight:bold;">ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS</span>
+            </th>
+            <td><img src="https://github.com/rescobedoq/pw2/blob/main/abet.png?raw=true" alt="ABET" style="width:50%; height:auto"/></td>
+        </tr>
 		<tbody>
 			<tr>
 				<td><span style="font-weight:bold;">ASIGNATURA:</span></td>

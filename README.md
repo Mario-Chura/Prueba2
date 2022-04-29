@@ -62,7 +62,7 @@
 				<td></td>
 			</tr>
 			<tr>
-				<td colspan="6">DOCENTE(s):
+				<td colspan="7">DOCENTE(s):
 					<ul>
 					<li>Richart Smith Escobedo Quispe (<a href="rescobedoq@unsa.edu.pe">rescobedoq@unsa.edu.pe</a>)</li>
 					</ul>

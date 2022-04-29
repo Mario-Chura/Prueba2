@@ -61,11 +61,11 @@
 					<li><a href="https://github.com/Mario-Chura">Mario Franco Chura Puma</a></li>
 					</ul>
 				</td>
-				<td colspan="">NOTA:</td>
+				<td colspan="2">NOTA:</td>
 				<td></td>
 			</tr>
 			<tr>
-				<td colspan="6">DOCENTE(s):
+				<td colspan="6">DOCENTE:
 					<ul>
 					<li>Richart Smith Escobedo Quispe (<a href="rescobedoq@unsa.edu.pe">rescobedoq@unsa.edu.pe</a>)</li>
 					</ul>

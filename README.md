@@ -54,6 +54,10 @@
 			<tr>
 				<td colspan="3">INTEGRANTES:
 					<ul>
+					<li>Daniel Edwad Tapia Saenz</li>
+					<li>Michael Benjamin Suclle Suca</li>
+					<li>Andre Paredes</li>
+					<li>Valery Cielo Iquise Mamani</li>
 					<li><a href="https://github.com/Mario-Chura">Mario Franco Chura Puma</a></li>
 					</ul>
 				</td>

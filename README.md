@@ -79,7 +79,7 @@
 <tbody>
 
 <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:<br>
-- Primer repositorio en GitHub
+- Crearemos un archivo Readme.md con contenido Markup
 - Creamos un nuevo proyecto en GitHub
 - Crearemos un repositorio local usando git init
     ```sh

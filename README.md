@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-<span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
+<span style="font-weight:bold;" colspan="2">GUÍA DE LABORATORIO</span><br />
 <span>(Formato estudiante)</span>
 </div>
 

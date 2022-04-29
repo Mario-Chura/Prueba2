@@ -27,7 +27,7 @@
 <table>
 	<tr>
            	 <th>
-                <span style="font-weight:bold;">Informacion Basica</span><br />        
+                <tr><td colspan="3"><span style="font-weight:bold;">INFORMACIÓN BÁSICA</td></tr>     
 		</th>          
         </tr>
 		<tbody>

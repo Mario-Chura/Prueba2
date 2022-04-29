@@ -54,7 +54,7 @@
 			<tr>
 				<td colspan="3">INTEGRANTES:
 					<ul>
-					<li><a href="https://github.com/Jerbo03">José André Paredes Quispe</a></li>
+					<li><a href="https://github.com/Mario-Chura">Mario Franco Chura Puma</a></li>
 					</ul>
 				</td>
 				<td colspan="">NOTA:</td>

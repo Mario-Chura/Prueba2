@@ -78,8 +78,8 @@
 </theader>
 <tbody>
 
-<tr><td align="center">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:<br>
-Escribirddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:<br>
+Escribirdddddddddddddddddddddddddddddddddddddddddddddd
 <br><br></td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>
 Aquí

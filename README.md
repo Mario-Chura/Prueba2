@@ -78,7 +78,7 @@
 </theader>
 <tbody>
 
-<tr><td><center>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</center><br>
+<tr><td align="center">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:<br>
 Escribirddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 <br><br></td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>

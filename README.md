@@ -79,8 +79,7 @@
 <tbody>
 
 <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:<br>
-## EJERCICIO/PROBLEMA RESUELTO POR EL DOCENTE
-Primer repositorio en GitHub
+
 - Creamos un nuevo proyecto en GitHub
     - ![Nuevo Proyecto GitHub](github_proyecto_programacion.png)
 

@@ -12,7 +12,7 @@
         </tr>
     </theader>
     <tbody>
-        <tr><td colspan="1"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>
+        <tr><td colspan="7"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>
         <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td colspan="2"><span style="font-weight:bold;">Código</span>: GUIA-PRLD-001</td></tr>
     </tbody>
 </table>

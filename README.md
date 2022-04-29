@@ -81,12 +81,10 @@
 <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:<br>
 Primer repositorio en GitHub
 - Creamos un nuevo proyecto en GitHub
-    - ![Nuevo Proyecto GitHub](github_proyecto_programacion.png)
-
 - Crearemos un repositorio local usando git init
     ```sh
     pwd
-    /home/richart/unsa/proyecto
+    E:\1. UNSA SISTEMAS\2. AÑO 2\PRIMER SEMESTRE\2. Programacion Web 2\Lab Pweb 2\Laboratorio 1\Proyecto
     git init
     ```
 

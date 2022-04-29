@@ -47,9 +47,9 @@
 			</tr>
 			<tr>
 				<td>FECHA DE PRESENTACIÓN::</td>
-				<td>28-Abr-2022</td>
+				<td>29-Abr-2022</td>
 				<td>HORA DE PRESENTACIÓN:</td>
-				<td> 20:00</td>
+				<td> 11:55 pm.</td>
 			</tr>
 			<tr>
 				<td colspan="3">INTEGRANTES:
@@ -79,12 +79,15 @@
 <tbody>
 
 <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:<br>
-- Crearemos un archivo Readme.md con contenido Markup
+## EJERCICIO/PROBLEMA RESUELTO POR EL DOCENTE
+Primer repositorio en GitHub
 - Creamos un nuevo proyecto en GitHub
+    - ![Nuevo Proyecto GitHub](github_proyecto_programacion.png)
+
 - Crearemos un repositorio local usando git init
     ```sh
     pwd
-    E:\1. UNSA SISTEMAS\2. AÑO 2\PRIMER SEMESTRE\2. Programacion Web 2\Lab Pweb 2\Laboratorio 1\Proyecto
+    /home/richart/unsa/proyecto
     git init
     ```
 

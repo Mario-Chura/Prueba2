@@ -26,7 +26,7 @@
 
 <table>
 		<theader>
-			<tr><th colspan="8">INFORMACIÓN BÁSICA</th></tr>
+			<tr><th colspan="1">INFORMACIÓN BÁSICA</th></tr>
 		</theader>
 		<tbody>
 			<tr>

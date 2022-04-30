@@ -46,7 +46,7 @@
 				<td>III</td>
 			</tr>
 			<tr>
-				<td>FECHA DE PRESENTACIÓN::</td>
+				<td>FECHA DE PRESENTACIÓN:</td>
 				<td>29-Abr-2022</td>
 				<td>HORA DE PRESENTACIÓN:</td>
 				<td> 11:55 pm.</td>

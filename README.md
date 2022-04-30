@@ -52,12 +52,8 @@
 				<td> 11:55 pm.</td>
 			</tr>
 			<tr>
-				<td colspan="3">INTEGRANTES:
+				<td colspan="3">ALUMNO:
 					<ul>
-					<li>Daniel Edwad Tapia Saenz</li>
-					<li>Michael Benjamin Suclle Suca</li>
-					<li>Andre Paredes</li>
-					<li>Valery Cielo Iquise Mamani</li>
 					<li><a href="https://github.com/Mario-Chura">Mario Franco Chura Puma</a></li>
 					</ul>
 				</td>
@@ -75,49 +71,81 @@
 </table>
 </div>
 
-<div align="center">
-<table>
-<theader>
-<tr><th colspan="6">SOLUCIÓN Y RESULTADOS</th></tr>
-</theader>
-<tbody>
+# Mi proyecto Git PROGRAMACIÓN WEB 2
+## Alumno: Mario Franco Chura Puma
+## Laboratorio E
 
-<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:<br>
+## Descripcion
 
-<br><br></td></tr>
-<tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>
-Aquí
-<br><br></td></tr>
-<tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>
-<---
-<br><br></td></tr>
-</tbody>
-</table>
-</div>
+Pasos realizados en este proyecto:
 
-<div align="center">
-<table>
-<theader>
-<tr><th colspan="6">RETROALIMENTACIÓN GENERAL</th></tr>
-</theader>
-<tbody>
-	<td>
-	-
-	</td>
-</tbody>
-</table>
-</div>
+- Se creo una cuenta en Github
+- Se configuro la cuenta de estudiante
+- Crearemos un archivo Readme.md con contenido Markup
+- Agregaremos este archivo al staging area usando git add . 
+- Hacemos un primer commit en nuestro repositorio local git commit -m “mi
+primer proyecto en github”
+- Actualizamos el repositorio remoto con git push origin master
 
-<div align="center">
-<table>
-<theader>
-<tr><th colspan="6">REFERENCIAS Y BIBLIOGRAFÍA</th></tr>
-</theader>
-<tbody>
-	<td>
-	-
-	</td>
-</tbody>
-</table>
-</div>
+## Comandos de Git utilizados
 
+En el presente proyecto se usaron los siguientes comandos.
+
+- [git config](#git_config)
+- [git init](#git_init)
+- [git clone](#git_clone)
+- [git add](#git_add)
+- [git commit](#git_commit)
+- [git status](#git_status)
+- [git push](#git_push)
+
+## git_config
+
+Establece valores de configuración para tu usuario, email, gpg key, algoritmo diff preferido, formatos de archivo y más. Ejemplos:
+
+```sh
+git config --global user.name "Mi nombre"
+git config --global user.email "usuario@dominio.com"
+```
+
+## git_init
+
+Inicializa un repositorio git – crea el directorio .git inicial en un proyecto nuevo o existente. Ejemplo:
+
+```sh
+Initialized empty Git repository in /home/username/GIT/.git/
+```
+
+## git_clone
+
+Crea una copia de repositorio GIT de una fuente externa. También añade la ubicación original como remota de modo que puedas traerlo de nuevo y lanzarlo si tienes permisos. Ejemplo:
+
+    ```md
+    git clone git@github.com:user/test.git
+    ```
+
+## git_add
+Añade cambios de archivos en tu directorio de ensayo a tu index. Ejemplo:
+
+    ```md
+    git add .
+    ```
+
+## git_commit
+Toma todos los cambios escritos en el index, crea un nuevo objeto de confirmación que apunta a él y establece la rama para que apunte a esa nueva confirmación. Ejemplos:
+
+    ```md
+    git add .
+    ```
+## git_status
+Te muestra el estado de los archivos en el index en comparación con los del directorio de trabajo. Enumerará los archivos que no están rastreados (solo en su directorio de trabajo), modificados (rastreados pero aún no actualizados en tu index), y almacenados (añadidos a tu index y listos para comprometerse). Ejemplo:
+
+    ```md
+    git status 
+    ```
+## git_push
+Envía todos los objetos modificados localmente al repositorio remoto. Ejemplo:
+
+    ```md
+    git push origin master
+    ```
